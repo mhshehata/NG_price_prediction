@@ -35,6 +35,6 @@ Develop a predictive model to forecast non-household natural gas prices in Germa
 
 Among the three models evaluated, the SARIMAX model demonstrated the lowest Root Mean Squared Error (RMSE). This indicates that the SARIMAX model provides the most accurate forecasts of non-household natural gas prices in Germany based on the given dataset.
 
-<img src='prediction.png'>
+<img src='predictions.png'>
 
 <img src='gas_price_forecast.png'>
