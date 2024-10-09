@@ -38,3 +38,7 @@ Among the three models evaluated, the SARIMAX model demonstrated the lowest Root
 <img src='predictions.png'>
 
 <img src='gas_price_forecast.png'>
+
+The predicted prices start from 2023-08-01 with a price of 0.065 €/kWh and end at 2025-07-01 with a price of 0.087 €/kWh.
+
+Overall, the forecast appears to be reasonably accurate, although there are some discrepancies between the actual and forecast prices. The forecast captures the general trend of the actual price, but it underestimates the price in some periods and overestimates it in others.
