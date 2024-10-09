@@ -37,4 +37,4 @@ Among the three models evaluated, the SARIMAX model demonstrated the lowest Root
 
 <img src='prediction.png'>
 
-<img src='gas_price_forecast'>
+<img src='gas_price_forecast.png'>
